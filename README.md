@@ -1,2 +1,2 @@
 # HTML-chujiebiji
-HTML初阶笔记+后续新增（王琦）
+HTML初阶笔记  简单回顾
